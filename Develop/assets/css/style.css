@@ -17,6 +17,7 @@ p {
   font-size: 16px;
 }
 
+/* Everything ABOVE if for the whole document */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,15 +26,18 @@ p {
   color: #ffffff;
 }
 
+/* This is for the brand's logo */
 .header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* Here we style only on the "seo" section of the brand's name */
 .header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Here we focus on the navigation bar */
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,15 +46,18 @@ p {
   font-size: 20px;
 }
 
+/* This is used to remove the bullet style of the list */
 .header nav ul {
   list-style-type: none;
 }
 
+/* Here we change the layout of the list into a row instead of a column */
 .header nav ul li {
   display: inline-block;
   margin-left: 25px;
 }
 
+/* This is for the decorative image below the header, since its decorative we dont need an alt and making it into a background image keeps the image's dimensions from altering with the size of the screen */
 .hero {
   height: 800px;
   width: 100%;
@@ -60,12 +67,14 @@ p {
   background-position: center;
 }
 
+/* This is for the section that contains the three cards with the main content */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/* Here we style each card individually, as well as their img, and h2 (found below this code block) */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -90,6 +99,7 @@ p {
   font-size: 36px;
 }
 
+/* Fload left and right helps place the image on the left or the right side of each section */
 .float-left {
   float: left;
   margin-right: 25px;
@@ -100,6 +110,7 @@ p {
   margin-left: 25px;
 }
 
+/* This is for the section found at the side of out main content */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -111,6 +122,7 @@ p {
   background-color: #2589bd;
 }
 
+/* Here we style each subsection of the benefits section individually as well as their h3, and img elements (found below this code block) */
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -143,4 +155,7 @@ p {
 
 .footer h2 {
   font-size: 20px;
+}
+.footer cite {
+  font-style: normal;
 }
