@@ -8,7 +8,7 @@ The structure of the HTML elements were revised and were edited to ensure it fol
 The image elements were revised and the proper alt attributes were added accordingly.
 The heading attributes were revised and ensured they fell in sequential order.
 The title element was revised and a concise, descripted new title was added.
-To view the webpage online please follow the following link:
+To view the webpage online please [Click-Here!](https://renfunny.github.io/horiseon-webpage-accesibility-optimization/)
 
 ## Visuals
 
@@ -16,7 +16,7 @@ To view the webpage online please follow the following link:
 
 ## Authors and acknowledgment
 
-The webpage was created by the Horiseon team, and was optimized by Renato Cordova. A special thanks to www.W3schools.com, which was used when optimizing the code to meet accessibility standards.
+The webpage was created by the Horiseon team, and was optimized by Renato Cordova. A special thanks to [w3schools](www.W3schools.com), which was used when optimizing the code to meet accessibility standards.
 
 ## Project status
 
