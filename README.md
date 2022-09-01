@@ -12,7 +12,7 @@ To view the webpage online please follow the following link:
 
 ## Visuals
 
-![Screenshot of the Horiseon Marketing Agency's webpage](/Develop/assets/images/Webpage-Screenshot.png)
+![Screenshot of the Horiseon Marketing Agency's webpage](/assets/images/Webpage-Screenshot.png)
 
 ## Authors and acknowledgment
 
